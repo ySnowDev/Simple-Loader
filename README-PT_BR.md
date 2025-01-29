@@ -1,3 +1,5 @@
+## Como usar
+
 1. **Instale as dependências**:
    - As dependências necessárias serão listadas aqui [(.NET 8.0.12 x64)](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-8.0.12-windows-x64-installer).
 
