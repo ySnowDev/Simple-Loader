@@ -17,7 +17,8 @@
 ## Exemplo de Uso
 
 
-![image](https://github.com/user-attachments/assets/c6aee1e1-e473-4d92-aae7-c391b281d691)
+![image](https://github.com/user-attachments/assets/a99173f2-fdfb-4647-b5c9-ba788a498a77)
+
 
 
 ## Contribuindo
@@ -34,9 +35,8 @@ Se você gostou deste projeto, não se esqueça de deixar uma estrela! ⭐
 
 [(Meu repositorio!)](https://github.com/ySnowDev/Simple-Loader)
 
-![image](https://github.com/user-attachments/assets/d1cbf409-397e-4d1b-a71f-b5aff60df654)
+![image](https://github.com/user-attachments/assets/e5b5cbbd-8a41-4dc5-a223-1a6316a66cc5)
 
-
-![image](https://github.com/user-attachments/assets/41fac11d-1c30-41cd-b50f-db139faf3abe)
+![image](https://github.com/user-attachments/assets/fdd55038-1812-490b-baf7-8fe49fd9b6cb)
 
 
