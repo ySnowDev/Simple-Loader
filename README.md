@@ -1,33 +1,17 @@
-```markdown
-# Simple-Loader
 
-Simple-Loader is a simple tool for loading external cheats in `.exe` format into offline games. With native integration with KeyAuth, the project ensures secure authentication for authorized users. **Simple-Loader** was developed to make the cheat execution process easier, offering a simple and effective interface for those who want to customize their gaming experience.
+1. **Install dependencies**:
+   - Any required dependencies will be listed here .NET 8.0 [NET 8.0.12 x64](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-8.0.12-windows-x64-installer).
 
-## Features
-
-- **Load External Cheats**: Load `.exe` cheats directly into your game.
-- **KeyAuth Integration**: Use KeyAuth authentication to ensure that only authorized users can use the loader.
-- **Simple Interface**: Easy to use, even for those with no prior experience with mods or cheats.
-
-## How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Simple-Loader.git
-   ```
-
-2. **Install dependencies**:
-   - Any required dependencies will be listed here (if there are any specific ones).
-
-3. **Configure KeyAuth**:
-   - Create an account on KeyAuth and set up your application by following the instructions in the [official KeyAuth documentation](https://keyauth.cc/).
+2. **Configure KeyAuth**:
+   - Create an account on KeyAuth and set up your application by following the instructions in the 
    - Fill in the authentication details in the project's configuration file.
 
-4. **Build the project**:
+3. **Build the project**:
    - Open the project in Visual Studio or your preferred IDE.
+   - Build Debug x64
    - Build the project to generate the executable file.
 
-5. **Run Simple-Loader**:
+4. **Run Simple-Loader**:
    - Open `Simple-Loader.exe`.
    - Log in using your KeyAuth key to validate your authentication.
    - Select the `.exe` cheat you want to load and run it.
