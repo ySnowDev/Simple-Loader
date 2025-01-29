@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JUXzbaX8C0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Snow\\Desktop\\MysteryLoader2\\MysteryLoader2\\MysteryLoader2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Snow\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Snow\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
+    "C:\\Users\\Snow\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Snow\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\Snow\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.57\\microsoft.windows.sdk.net.ref.10.0.22000.57.nupkg.sha512"
+  ],
+  "logs": []
+}

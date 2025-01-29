@@ -1,0 +1,52 @@
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.exe
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.deps.json
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.runtimeconfig.json
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.pdb
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\Guna.UI2.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\System.Management.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.AssemblyReference.cache
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Login.resources
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Main.resources
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Properties.Resources.resources
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Register.resources
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.GenerateResource.cache
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.AssemblyInfoInputs.cache
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.AssemblyInfo.cs
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.CoreCompileInputs.cache
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryL.2E61278A.Up2Date
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\refint\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.pdb
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.genruntimeconfig.cache
+C:\Users\Snow\Desktop\MysteryLoader2\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\ref\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.exe
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.deps.json
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.runtimeconfig.json
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.pdb
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\Guna.UI2.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\System.Management.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\bin\x64\Debug\net8.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.AssemblyReference.cache
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Login.resources
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Main.resources
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Properties.Resources.resources
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.Register.resources
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.GenerateResource.cache
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.AssemblyInfoInputs.cache
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.AssemblyInfo.cs
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.csproj.CoreCompileInputs.cache
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryL.2E61278A.Up2Date
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\refint\MysteryLoader2.dll
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.pdb
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\MysteryLoader2.genruntimeconfig.cache
+C:\Users\Snow\Desktop\MysteryLoader2 Backup\MysteryLoader2\obj\x64\Debug\net8.0-windows10.0.22000.0\ref\MysteryLoader2.dll

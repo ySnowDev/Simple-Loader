@@ -1,0 +1,10 @@
+C:\Users\Snow\Documents\MysteryLoader2.exe
+C:\Users\Snow\Documents\MysteryLoader2.dll
+C:\Users\Snow\Documents\MysteryLoader2.deps.json
+C:\Users\Snow\Documents\MysteryLoader2.runtimeconfig.json
+C:\Users\Snow\Documents\MysteryLoader2.pdb
+C:\Users\Snow\Documents\Microsoft.Windows.SDK.NET.dll
+C:\Users\Snow\Documents\WinRT.Runtime.dll
+C:\Users\Snow\Documents\Guna.UI2.dll
+C:\Users\Snow\Documents\System.Management.dll
+C:\Users\Snow\Documents\runtimes\win\lib\net7.0\System.Management.dll
