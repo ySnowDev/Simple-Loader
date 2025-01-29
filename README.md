@@ -1,3 +1,4 @@
+## How to use
 
 1. **Install dependencies**:
    - Any required dependencies will be listed here .NET 8.0 [NET 8.0.12 x64](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-8.0.12-windows-x64-installer).
