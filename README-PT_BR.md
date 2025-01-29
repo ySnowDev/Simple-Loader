@@ -37,7 +37,7 @@ Se você gostou deste projeto, não se esqueça de deixar uma estrela! ⭐
 ![image](https://github.com/user-attachments/assets/d40d48a6-45be-4011-90e8-258979f8f635)
 
 
-(Adicione mais imagens e detalhes aqui, como capturas de tela da interface ou do uso do loader)
+
 
 ![image](https://github.com/user-attachments/assets/d1cbf409-397e-4d1b-a71f-b5aff60df654)
 
